@@ -1,1 +1,3 @@
 # weight-schedule
+running
+weight
